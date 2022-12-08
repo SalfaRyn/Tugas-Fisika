@@ -1,6 +1,6 @@
 program pembahasan_soal_UTS;
-// Nama : Faris Hidayatullah
-// NIM : 2022230023
+// Nama : Salfa Aryanda Agustino
+// NIM : 2022230029
 begin
             // NOMOR 1
   WriteLn('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~');
